@@ -10,4 +10,5 @@ The sample app described here is up at https://fastai-v3.onrender.com. Test it o
 This classifier has an added feature to detect polar bears too.
 This is a simple neural net and has an accuracy of nearly 94%.
 
-# Fasti repo was used for reference and 
+# Fasti repo was used for reference 
+You can go to https://course.fast.ai/ and create a classifier of your own.
